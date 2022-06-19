@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Preetam-Biswas
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Statistics and Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me pbiswas5300@gmail.com
