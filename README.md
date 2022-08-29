@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Preetam-Biswas
+- 👋 Hi, I’m @preetam-biswas
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Statistics and Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
